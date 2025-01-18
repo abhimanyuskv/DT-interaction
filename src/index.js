@@ -6,6 +6,6 @@ import "./index.css"; // Optional: if you have any global styles
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <InteractionSystem/>
+    <InteractionSystem />
   </React.StrictMode>
 );

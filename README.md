@@ -25,6 +25,10 @@ This project demonstrates interactive 3D object manipulation in a React applicat
 - **@react-three/drei**: A set of useful abstractions and components for `react-three/fiber`.
 - **Three.js**: 3D graphics library that powers the 3D objects and transformations.
 
+## Live Demo
+
+https://dt-interaction.vercel.app/
+
 ## Installation
 
 ### Prerequisites
